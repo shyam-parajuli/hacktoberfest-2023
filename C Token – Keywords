@@ -1,0 +1,11 @@
+C Token – Keywords
+The keywords are pre-defined or reserved words in a programming language. Each keyword is meant to perform a specific function in a program. Since keywords are referred names for a compiler, they can’t be used as variable names because by doing so, we are trying to assign a new meaning to the keyword which is not allowed. You cannot redefine keywords. However, you can specify the text to be substituted for keywords before compilation by using C preprocessor directives. C language supports 32 keywords which are given below: 
+
+auto         double      int        struct
+break        else        long       switch
+case         enum        register   typedef
+char         extern      return     union
+const        float       short      unsigned
+continue     for         signed     void
+default      goto        sizeof     volatile
+do           if          static     while
